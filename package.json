@@ -1,0 +1,11 @@
+{  
+  "name": "my-simple-project",  
+  "version": "1.0.0",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "mocha"  
+  },  
+  "devDependencies": {  
+    "mocha": "^8.2.1"  
+  }  
+}
